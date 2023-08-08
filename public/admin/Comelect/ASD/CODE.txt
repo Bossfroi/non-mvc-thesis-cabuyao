@@ -1,0 +1,3 @@
+<div>
+                            <embed src="<?php echo URLROOT; ?>/public/uploads/Kabanata5-7.pdf" type="application/pdf" width="100%" height="1000px"></embed>
+                        </div>
